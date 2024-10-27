@@ -31,3 +31,27 @@ npm start
 ```
 
 ##
+
+#Estrutura de Pastas do Projeto
+game-manager/
+├── src/
+│   ├── components/
+│   │   ├── Dashboard/
+│   │   │   ├── Dashboard.jsx
+│   │   │   └── index.js
+│   │   ├── GameCard/
+│   │   │   ├── GameCard.jsx
+│   │   │   └── index.js
+│   │   └── GameManager/
+│   │       ├── GameManager.jsx
+│   │       └── index.js
+│   ├── hooks/
+│   │   ├── useDialog.js
+│   │   ├── useGameAnalytics.js
+│   │   ├── useGameForm.js
+│   │   └── useGames.js
+│   ├── utils/
+│   │   └── constants.js
+│   └── App.jsx
+├── package.json
+└── README.md
