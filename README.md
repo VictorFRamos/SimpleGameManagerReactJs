@@ -33,6 +33,7 @@ npm start
 ##
 
 #Estrutura de Pastas do Projeto
+<code>
 game-manager/
 ├── src/
 │   ├── components/
@@ -55,3 +56,4 @@ game-manager/
 │   └── App.jsx
 ├── package.json
 └── README.md
+</code>
